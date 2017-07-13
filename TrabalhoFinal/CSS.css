@@ -1,0 +1,88 @@
+#fundo {
+	background-color: #32D2F0;
+}
+
+#destaque{
+	background-color: #C5EE2A;
+
+	border: 3px;
+	border-color: #FF447E;
+	border-radius: 6px;
+	border-style: solid;
+
+	padding-left: 2vw;
+	padding-right: 2vw;
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+
+	margin-left: 40vw;
+	margin-top: 5vh;
+	margin-bottom: 2vh;;
+
+	width: 15vw;
+	height: 82vh; 
+}
+
+#titulo{
+	color: #FF447E;
+	font-size: 50px;
+	font-family: 'Cookie', cursive;
+
+	margin-left: 1vw;
+	margin-top: 3vh;
+}
+
+#letraNormal{
+	color: #FF447E;
+	font-size: 18px;
+	font-weight: bolder;
+	font-family: 'Molengo', sans-serif;
+
+	margin-left: 1vw;
+	margin-right: 2vw;
+	margin-top: 6vh;
+
+	padding-left: 3px;
+	padding-bottom: 3px;
+
+	border-style: none; 
+}
+
+#linkCadastro{
+	color: #FF447E;
+	font-size: 15px;
+	font-family: 'Molengo', sans-serif;
+	text-decoration: none;
+
+	margin-left: 5vw;
+	margin-right: 3vw;
+
+	border-color: #FF447E;
+}
+
+#linkCadastro:hover{
+	color: #FFF;
+}
+
+#linkEsqueceuSenha{
+	color: #FF447E;
+	font-size: 15px;
+	font-family: 'Molengo', sans-serif;
+	text-decoration: none;
+
+	margin-left: 3vw;
+	margin-right: 2vw;
+
+	border-color: #FF447E;
+}
+
+#linkCadastro:hover{
+	color: #FFF;
+}
+
+#sub{
+	margin-left: 7vw;
+	margin-right: 2vw;
+	margin-top: 2vh;
+	margin-bottom: 3vh;
+}
