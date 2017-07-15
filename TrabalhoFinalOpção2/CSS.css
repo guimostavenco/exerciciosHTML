@@ -37,7 +37,7 @@
 #parallax{
 	background-image: url("fundo2.jpg");
     /* Set a specific height */
-    height: 1000vh; 
+    height: 360vh; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -91,6 +91,4 @@
 
 #roupaGaleria{
 	margin: 0 auto;
-	width: 300px;
-	height: 400px;
 }
